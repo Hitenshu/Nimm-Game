@@ -11,3 +11,5 @@ This is a basic Python implementation of the **Nimm Game**, a mathematical game 
 
 ## 📂 Project Structure
 
+Nimm_Game/
+└── nimm_game.py
